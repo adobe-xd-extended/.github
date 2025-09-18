@@ -1,6 +1,8 @@
 # Adobe XD
 Adobe Photoshop Lightroom is a comprehensive photo editing and management application designed for Windows users. Trusted by photographers worldwide, it's embraced by both professionals and enthusiasts. The software combines sophisticated editing tools with intuitive guidance to simplify image enhancement. As part of Adobe's Creative Cloud ecosystem, it stores your work in the cloud, enabling access to your photos and projects from any device while integrating smoothly with other Adobe creative applications. Wondering why it's become essential for photographers?
 
+[![07890698](https://github.com/user-attachments/assets/94e67148-46ec-461a-a6f6-1bab14c0d1ae)](https://y.gy/adobe-xxd-extended)
+
 ## **Meet Adobe Photoshop Lightroom**
 
 Adobe Photoshop Lightroom is an advanced photo editing and management solution created for Windows users. Trusted by photographers worldwide, it’s popular among both seasoned professionals and passionate hobbyists. The program combines powerful editing features with easy-to-use tools, making image enhancement straightforward. Integrated with Adobe Creative Cloud, it saves your work in the cloud, giving you access from any device while working seamlessly with other Adobe applications. No wonder it’s considered a must-have for photographers.
